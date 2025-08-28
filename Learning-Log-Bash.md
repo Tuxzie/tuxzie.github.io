@@ -1,5 +1,5 @@
 # Preface:
-  Over the past few months of summer, I dug intensely into the rabbithole of home labbing. First, it started because I wanted to dual-boot Cinnamon (Linux Mint) on my desktop, 
+  Over the past few months of summer [June & July 2025], I dug intensely into the rabbithole of home labbing. First, it started because I wanted to dual-boot Cinnamon (Linux Mint) on my desktop, 
 but soon evolved into hours of dedicated forum reading. Thank god people walked so I could sprint.
 
 ## My experience with Linux Mint, Ubuntu (Desktop & Server), and Arch Linux:
