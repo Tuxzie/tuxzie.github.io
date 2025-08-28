@@ -29,8 +29,8 @@ I found myself happy with the learning and amicably stepped away from Arch Linux
       -Using curl, software manager [sometimes], and downloading even more dependencies 
 
 ### Arch Linux
-      o No (I'm kidding)
-      o Configuring an OS with more control
+      o No, I'm never coming back (I'm kidding)
+      o How to configure an OS on a more esoteric level (with more control)
         -Recognizing & respecting the role of GRUB and the work of OS builders
         -Better understanding Bash's capabilities as a script
         -Downloading literally anything is a nightmare
